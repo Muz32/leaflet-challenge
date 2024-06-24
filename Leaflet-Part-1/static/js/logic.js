@@ -1,6 +1,6 @@
 // Create the map object
 let myMap = L.map("map", {
-    center: [0, 90], 
+    center: [0, 50], 
     zoom: 3 
   });
   
@@ -11,12 +11,12 @@ let myMap = L.map("map", {
   
   // Define a function to get the color based on depth
   function getColor(depth) {
-    return depth > 90 ? '#800026' :
-           depth > 70 ? '#BD0026' :
-           depth > 50 ? '#E31A1C' :
-           depth > 30 ? '#FC4E2A' :
-           depth > 10 ? '#FD8D3C' :
-                        '#FFEDA0';
+    return depth > 90 ? '#4B0082' :  // Indigo
+           depth > 70 ? '#6A0DAD' :  // Purple
+           depth > 50 ? '#8A2BE2' :  // BlueViolet
+           depth > 30 ? '#4169E1' :  // RoyalBlue
+           depth > 10 ? '#4682B4' :  // SteelBlue
+                        '#B0C4DE';   // LightSteelBlue
   }
   
   // Define a function to get the radius based on magnitude
