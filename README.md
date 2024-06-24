@@ -16,17 +16,17 @@ Building upon the earthquake visualization, this part introduces an additional l
 ## Folder Structure
 
 ### Leaflet-Part-1
-\```
+```
 ├── index.html
 └── static
     ├── css
     │   └── style.css
     └── js
         └── logic.js
-\```
+```
 
 ### Leaflet-Part-2
-\```
+```
 ├── index.html
 └── static
     ├── css
@@ -34,6 +34,6 @@ Building upon the earthquake visualization, this part introduces an additional l
     └── js
         ├── logic.js
         └── tectonicPlates.js
-\```
+```
 
 
