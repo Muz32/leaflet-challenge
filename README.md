@@ -17,6 +17,7 @@ The geospatial visualisations illustrating seismic activity and tectonic plates 
 - **Tectonic Plates Data**: [Fraxen's tectonicplates GitHub repository]( https://github.com/fraxen/tectonicplates). The GeoJSON folder had four JSON files. Data from the ‘PB2002_boundaries.json’ file was used and put in a javascript file.
 
 ## Folder Structure
+
 ### Leaflet-Part-1
 ```
 ├── index.html
@@ -39,12 +40,13 @@ The geospatial visualisations illustrating seismic activity and tectonic plates 
 ```
 
 ### GeoJSON (Tectonic Plates)
+```
 ├── PB2002_boundaries.json
 ├── PB2002_orogens.json
 ├── PB2002_plates.json
 └── PB2002_steps.json
-
 ```
+
 
 
 
