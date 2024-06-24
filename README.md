@@ -8,7 +8,7 @@ This section visualises earthquake data from the past seven days sourced from th
 Building upon the earthquake visualisation, this part introduces an additional layer of tectonic plate data to explore the relationship between plate boundaries and seismic events. You can toggle between a street map and a topographic map for varied geographical perspectives. Additionally, each dataset (on earthquakes and tectonic plates) is put into separate overlays, allowing you to select and view one dataset at a time or both datasets alongside each other.  
 
 ## GitHub Deployment
-The geospatial visualisations illustrating seismic activity and tectonic plates are also deployed to GitHub Pages, enabling you to easily view the visualisations without the need to download the repository. Please visit: [Tectonic Plates and Seismic Activity Geospatial Visuslisation](https://muz32.github.io/leaflet-challenge/) 
+The geospatial visualisations illustrating seismic activity and tectonic plates are also deployed to GitHub Pages, enabling you to easily view the visualisations without the need to download the repository. Please visit: [Tectonic Plates and Seismic Activity Geospatial Visualisation](https://muz32.github.io/leaflet-challenge/) 
 
 ## Data Source
 
