@@ -37,6 +37,7 @@ The geospatial visualisations illustrating seismic activity and tectonic plates 
         ├── logic.js
         └── tectonicPlates.js
 ```
+
 ### GeoJSON (Tectonic Plates)
 ├── PB2002_boundaries.json
 ├── PB2002_orogens.json
