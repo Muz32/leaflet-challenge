@@ -11,23 +11,29 @@ Building upon the earthquake visualization, this part introduces an additional l
 
 - **Earthquake Data**: United States Geological Survey (USGS), United States Geological Survey, API link: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
   
-- **Tectonic Plates Data**: Fraxen's tectonicplates GitHub repository https://github.com/fraxen/tectonicplates.The GeoJSON folder had four JSON files. Data from the ‘PB2002_boundaries.json’ file was used.
+- **Tectonic Plates Data**: Fraxen's tectonicplates GitHub repository https://github.com/fraxen/tectonicplates. The GeoJSON folder had four JSON files. Data from the ‘PB2002_boundaries.json’ file was used.
 
 ## Folder Structure
-Leaflet-Part-1
+
+### Leaflet-Part-1
+\```
 ├── index.html
 └── static
     ├── css
     │   └── style.css
     └── js
         └── logic.js
+\```
 
-Leaflet-Part-2
+### Leaflet-Part-2
+\```
 ├── index.html
 └── static
     ├── css
     │   └── style.css
     └── js
         ├── logic.js
-        └── tectonicPlates
+        └── tectonicPlates.js
+\```
+
 
