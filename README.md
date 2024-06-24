@@ -14,7 +14,6 @@ Building upon the earthquake visualization, this part introduces an additional l
 - **Tectonic Plates Data**: Fraxen's tectonicplates GitHub repository https://github.com/fraxen/tectonicplates. The GeoJSON folder had four JSON files. Data from the ‘PB2002_boundaries.json’ file was used.
 
 ## Folder Structure
-
 ### Leaflet-Part-1
 ```
 ├── index.html
@@ -35,5 +34,3 @@ Building upon the earthquake visualization, this part introduces an additional l
         ├── logic.js
         └── tectonicPlates.js
 ```
-
-
